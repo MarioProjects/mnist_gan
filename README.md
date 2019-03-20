@@ -1,3 +1,3 @@
 # mnist_gan
 ![mygif](animation.gif)
-![myprogress](progress.eps)
+![myprogress](progress.png)
